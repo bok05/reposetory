@@ -11,12 +11,24 @@
             "id": "68eb162b7b4342e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prüfung/Begriffe Definition.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "dcf4877d05edc9a1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "13e443be9e9e1954",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prüfung/Begriffe Definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prüfung/Begriffe Definition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,25 +134,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Prüfung/Begriffe Definition.md"
-              }
-            }
-          },
-          {
-            "id": "dcf4877d05edc9a1",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
               "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,18 +152,21 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "05c3ffcd6a4403fd",
+  "active": "68eb162b7b4342e2",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Prüfung/Begriffe Definition.md",
     "Prüfung/images/Marktformen.png",
     "Prüfung/images",
     "Prüfung/images/proxy-image.png",
     "Prüfung/Themen Lernen.md",
     "Welcome.md",
     "Prüfung/Prüfung Notizen/Winter 2022-23 WISO.md",
-    "Prüfung/Begriffe Definition.md",
     "Prüfung/Prüfung Notizen",
     "Prüfung"
   ]
