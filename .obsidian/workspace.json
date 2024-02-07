@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prüfung/Themen Lernen.md",
+                "file": "Prüfung/Begriffe Definition.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prüfung/Themen Lernen.md",
+                "file": "Prüfung/Begriffe Definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prüfung/Themen Lernen.md",
+                "file": "Prüfung/Begriffe Definition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prüfung/Themen Lernen.md"
+                "file": "Prüfung/Begriffe Definition.md"
               }
             }
           },
@@ -154,10 +154,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68eb162b7b4342e2",
+  "active": "05c3ffcd6a4403fd",
   "lastOpenFiles": [
-    "Welcome.md",
+    "Prüfung/images/Marktformen.png",
+    "Prüfung/images",
+    "Prüfung/images/proxy-image.png",
     "Prüfung/Themen Lernen.md",
+    "Welcome.md",
     "Prüfung/Prüfung Notizen/Winter 2022-23 WISO.md",
     "Prüfung/Begriffe Definition.md",
     "Prüfung/Prüfung Notizen",
