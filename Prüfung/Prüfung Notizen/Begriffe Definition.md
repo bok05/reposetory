@@ -95,12 +95,69 @@
 		-Für das stillen wärend der Arbeitzeit muss genug pause hinzukommen 
 		- Das Mutterschutzgesetzt enthält das Recht auf Elternzeit 
 
- ### Elternzeit 
 
+
+### Elternzeit
+1. **Anspruchsberechtigung:** 
+   - Arbeitnehmer(innen), Beamte, Soldaten, und in manchen Fällen auch Selbständige.
+   - Voraussetzung: Sorgeberechtigung für das Kind.
+
+2. **Dauer:** 
+   - Bis zu drei Jahre pro Kind.
+   - Kann zwischen beiden Elternteilen aufgeteilt werden.
+   - Ein Anteil von bis zu 24 Monaten kann auch zwischen dem 3. und dem 8. Lebensjahr des Kindes genommen werden.
+
+3. **Anmeldung:** 
+   - Muss beim Arbeitgeber spätestens sieben Wochen vor Beginn angemeldet werden.
+   - Schriftliche Anmeldung ist erforderlich.
+
+4. **Elterngeld:** 
+   - Staatliche Leistung zur finanziellen Unterstützung.
+   - Basierend auf dem durchschnittlichen Nettoeinkommen vor der Geburt/Adoption.
+   - Basiselterngeld oder ElterngeldPlus Varianten verfügbar.
+
+5. **Arbeitsrechtlicher Schutz:**
+   - Kündigungsschutz ab Anmeldung bis zum Ende der Elternzeit.
+   - Möglichkeit zur Teilzeitarbeit während der Elternzeit unter bestimmten Bedingungen.
+
+6. **Rückkehrrecht zum Arbeitsplatz:**
+    - Recht auf Rückkehr zur gleichen oder einer vergleichbaren Stelle mit ähnlichen Arbeitsbedingungen.
+
+7. **Urlaubsanspruch:**
+    - Während der Elternzeit kann der Jahresurlaub anteilig gekürzt werden.
+
+8. **Mehrlingsgeburten/Adoption mehrerer Kinder:**
+    - Bei Mehrlingsgeburten oder Adoption mehrerer Kinder erhöht sich nicht die Dauer des Anspruchs pro Kind, aber es gibt spezielle Regelungen beim Elterngeld.
+
+9. **Väterbeteiligung:**
+    - Besonders gefördert durch das "Vätermonate"-Konzept (Partnermon"-KonVätermonateert durch
+ 
 
 
 
 ### Kündigungsrecht 
+
+Das Kündigungsrecht regelt die Bedingungen, unter denen Vertragsverhältnisse beendet werden können. Es ist in verschiedenen Gesetzen verankert und kann je nach Vertragstyp variieren. Hier sind einige wichtige Stichpunkte zum Kündigungsrecht in Deutschland:
+
+- **Ordentliche Kündigung**: Einhaltung der im Vertrag oder gesetzlich festgelegten Kündigungsfristen und -bedingungen.
+  
+- **Außerordentliche (fristlose) Kündigung**: Bei schwerwiegenden Gründen, die eine Fortsetzung des Vertragsverhältnisses unzumutbar machen.
+
+- **Kündigungsschutz**: Bestimmte Personengruppen (z.B. Schwangere, Schwerbehinderte, Betriebsratsmitglieder) genießen besonderen Schutz vor Kündigungen.
+
+- **Kündigungsschutzgesetz (KSchG)**: Regelt den Schutz von Arbeitnehmern vor ungerechtfertigten Kündigungen im Arbeitsrecht.
+
+- **Schriftform**: Viele Kündigungen müssen schriftlich erfolgen, um wirksam zu sein.
+
+- **Begründungspflicht**: In bestimmten Fällen muss die Kündigung begründet werden, insbesondere im Arbeitsrecht.
+
+- **Sozialauswahl**: Bei betriebsbedingten Kündigungen muss der Arbeitgeber eine Sozialauswahl treffen, d.h., soziale Gesichtspunkte bei der Auswahl der zu kündigenden Arbeitnehmer berücksichtigen.
+
+- **Widerspruchsrecht des Betriebsrats**: Im Arbeitsrecht hat der Betriebsrat unter bestimmten Bedingungen ein Widerspruchsrecht gegen die Kündigung von Arbeitnehmern.
+
+- **Klagefrist**: Im Falle einer unrechtmäßigen Kündigung haben Arbeitnehmer eine Frist von drei Wochen nach Zugang der schriftlichen Kündigung, um Klage beim Arbeitsgericht einzureichen.
+
+- **Abfindung**: Unter bestimmten Umständen kann einem gekündigten Arbeitnehmer eine Abfindung zustehen, entweder durch Vereinbarung oder nach dem KSchG bei sozial ungere
 # <span style="color:red">MarktstrukFormen</span>
 ![[Marktformen.png]]
 ### Angebotsmonopol

@@ -23,6 +23,7 @@
       "tags": "photo, dalle-2, dalle-3",
       "authorUrl": "https://www.buymeacoffee.com/haouarine",
       "repo": "text-gen/tg-dalle-package",
+      "installed": false,
       "downloads": 98623
     },
     "huggingface": {
@@ -74,6 +75,7 @@
       "tags": "OpenAI,markdown,gpt-4-vision,vision,images",
       "authorUrl": "https://www.buymeacoffee.com/haouarine",
       "repo": "text-gen/tg-vision",
+      "installed": false,
       "downloads": 957
     },
     "smartConnections": {
@@ -86,6 +88,7 @@
       "tags": "smartConnections,smart-connections",
       "authorUrl": "https://www.buymeacoffee.com/haouarine",
       "repo": "text-gen/tg-smartConnections",
+      "installed": false,
       "downloads": 954
     },
     "Experimental": {
@@ -131,6 +134,7 @@
       "core": true,
       "folderName": "excalidrawPackage",
       "price": 2,
+      "installed": false,
       "downloads": 0
     }
   },
@@ -216,6 +220,399 @@
         },
         {
           "promptId": "getParagraph",
+          "version": ""
+        }
+      ],
+      "version": "0.0.5"
+    },
+    "dalle": {
+      "packageId": "dalle",
+      "prompts": [
+        {
+          "promptId": "art3D"
+        },
+        {
+          "promptId": "artAnime"
+        },
+        {
+          "promptId": "artBallPointPen"
+        },
+        {
+          "promptId": "artBanksy"
+        },
+        {
+          "promptId": "artBauhaus"
+        },
+        {
+          "promptId": "artCartoon"
+        },
+        {
+          "promptId": "artChildrenDrawing"
+        },
+        {
+          "promptId": "artClaymation"
+        },
+        {
+          "promptId": "artColoringBook"
+        },
+        {
+          "promptId": "artCyberpunk"
+        },
+        {
+          "promptId": "artDeco"
+        },
+        {
+          "promptId": "artDigital"
+        },
+        {
+          "promptId": "artGlitchcore"
+        },
+        {
+          "promptId": "artGraffiti"
+        },
+        {
+          "promptId": "artLine"
+        },
+        {
+          "promptId": "artLowPoly"
+        },
+        {
+          "promptId": "artModern"
+        },
+        {
+          "promptId": "artNormanRockwell"
+        },
+        {
+          "promptId": "artPencilSketch"
+        },
+        {
+          "promptId": "artPixel"
+        },
+        {
+          "promptId": "artPsychedelic"
+        },
+        {
+          "promptId": "artSalvadorDali"
+        },
+        {
+          "promptId": "artSprayPainted"
+        },
+        {
+          "promptId": "artSteampunk"
+        },
+        {
+          "promptId": "artStock"
+        },
+        {
+          "promptId": "artSynthwave"
+        },
+        {
+          "promptId": "artTakashiMurakami"
+        },
+        {
+          "promptId": "artTimBurton"
+        },
+        {
+          "promptId": "artUkiyoe"
+        },
+        {
+          "promptId": "artVanGogh"
+        },
+        {
+          "promptId": "artVaporwave"
+        },
+        {
+          "promptId": "artWarhol"
+        },
+        {
+          "promptId": "artWatercolor"
+        },
+        {
+          "promptId": "dall-e-core"
+        },
+        {
+          "promptId": "getPhoto"
+        },
+        {
+          "promptId": "ligAmbient"
+        },
+        {
+          "promptId": "ligCinematic"
+        },
+        {
+          "promptId": "ligFlare"
+        },
+        {
+          "promptId": "ligGoldenHour"
+        },
+        {
+          "promptId": "ligStudio"
+        },
+        {
+          "promptId": "modArtStation"
+        },
+        {
+          "promptId": "modAwardWinning"
+        },
+        {
+          "promptId": "modDetailed"
+        },
+        {
+          "promptId": "modFanart"
+        },
+        {
+          "promptId": "modPhotorealistic"
+        },
+        {
+          "promptId": "qua15mm"
+        },
+        {
+          "promptId": "qua200mm"
+        },
+        {
+          "promptId": "qua35mm"
+        },
+        {
+          "promptId": "qua4K"
+        },
+        {
+          "promptId": "qua85mm"
+        },
+        {
+          "promptId": "quaBokeh"
+        },
+        {
+          "promptId": "quaCinematic"
+        },
+        {
+          "promptId": "quaMacro"
+        },
+        {
+          "promptId": "quaTiltShift"
+        },
+        {
+          "promptId": "sitNature"
+        }
+      ],
+      "installedPrompts": [
+        {
+          "promptId": "ligAmbient",
+          "version": ""
+        },
+        {
+          "promptId": "artWarhol",
+          "version": ""
+        },
+        {
+          "promptId": "artPencilSketch",
+          "version": ""
+        },
+        {
+          "promptId": "artBanksy",
+          "version": ""
+        },
+        {
+          "promptId": "dall-e-core",
+          "version": ""
+        },
+        {
+          "promptId": "artTimBurton",
+          "version": ""
+        },
+        {
+          "promptId": "artBallPointPen",
+          "version": ""
+        },
+        {
+          "promptId": "artPsychedelic",
+          "version": ""
+        },
+        {
+          "promptId": "artLine",
+          "version": ""
+        },
+        {
+          "promptId": "qua85mm",
+          "version": ""
+        },
+        {
+          "promptId": "getPhoto",
+          "version": ""
+        },
+        {
+          "promptId": "artSalvadorDali",
+          "version": ""
+        },
+        {
+          "promptId": "artVaporwave",
+          "version": ""
+        },
+        {
+          "promptId": "artColoringBook",
+          "version": ""
+        },
+        {
+          "promptId": "modAwardWinning",
+          "version": ""
+        },
+        {
+          "promptId": "sitNature",
+          "version": ""
+        },
+        {
+          "promptId": "artClaymation",
+          "version": ""
+        },
+        {
+          "promptId": "ligFlare",
+          "version": ""
+        },
+        {
+          "promptId": "artGraffiti",
+          "version": ""
+        },
+        {
+          "promptId": "artChildrenDrawing",
+          "version": ""
+        },
+        {
+          "promptId": "artSteampunk",
+          "version": ""
+        },
+        {
+          "promptId": "artSynthwave",
+          "version": ""
+        },
+        {
+          "promptId": "artDeco",
+          "version": ""
+        },
+        {
+          "promptId": "modDetailed",
+          "version": ""
+        },
+        {
+          "promptId": "artTakashiMurakami",
+          "version": ""
+        },
+        {
+          "promptId": "qua200mm",
+          "version": ""
+        },
+        {
+          "promptId": "modArtStation",
+          "version": ""
+        },
+        {
+          "promptId": "quaCinematic",
+          "version": ""
+        },
+        {
+          "promptId": "ligCinematic",
+          "version": ""
+        },
+        {
+          "promptId": "artVanGogh",
+          "version": ""
+        },
+        {
+          "promptId": "qua4K",
+          "version": ""
+        },
+        {
+          "promptId": "quaTiltShift",
+          "version": ""
+        },
+        {
+          "promptId": "qua35mm",
+          "version": ""
+        },
+        {
+          "promptId": "artDigital",
+          "version": ""
+        },
+        {
+          "promptId": "artNormanRockwell",
+          "version": ""
+        },
+        {
+          "promptId": "quaBokeh",
+          "version": ""
+        },
+        {
+          "promptId": "qua15mm",
+          "version": ""
+        },
+        {
+          "promptId": "artGlitchcore",
+          "version": ""
+        },
+        {
+          "promptId": "art3D",
+          "version": ""
+        },
+        {
+          "promptId": "artCyberpunk",
+          "version": ""
+        },
+        {
+          "promptId": "ligGoldenHour",
+          "version": ""
+        },
+        {
+          "promptId": "quaMacro",
+          "version": ""
+        },
+        {
+          "promptId": "artSprayPainted",
+          "version": ""
+        },
+        {
+          "promptId": "artModern",
+          "version": ""
+        },
+        {
+          "promptId": "artCartoon",
+          "version": ""
+        },
+        {
+          "promptId": "artPixel",
+          "version": ""
+        },
+        {
+          "promptId": "artAnime",
+          "version": ""
+        },
+        {
+          "promptId": "artStock",
+          "version": ""
+        },
+        {
+          "promptId": "modFanart",
+          "version": ""
+        },
+        {
+          "promptId": "modPhotorealistic",
+          "version": ""
+        },
+        {
+          "promptId": "artWatercolor",
+          "version": ""
+        },
+        {
+          "promptId": "ligStudio",
+          "version": ""
+        },
+        {
+          "promptId": "artBauhaus",
+          "version": ""
+        },
+        {
+          "promptId": "artLowPoly",
+          "version": ""
+        },
+        {
+          "promptId": "artUkiyoe",
           "version": ""
         }
       ],
