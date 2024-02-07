@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Prüfung/Themen Lernen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Prüfung/Themen Lernen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Prüfung/Themen Lernen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Prüfung/Themen Lernen.md"
               }
             }
           },
@@ -156,6 +156,11 @@
   },
   "active": "68eb162b7b4342e2",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Welcome.md",
+    "Prüfung/Themen Lernen.md",
+    "Prüfung/Prüfung Notizen/Winter 2022-23 WISO.md",
+    "Prüfung/Begriffe Definition.md",
+    "Prüfung/Prüfung Notizen",
+    "Prüfung"
   ]
 }
