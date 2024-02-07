@@ -11,8 +11,12 @@
             "id": "68eb162b7b4342e2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Prüfung/Prüfung Notizen/Begriffe Definition.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -97,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Prüfung/Prüfung Notizen/Begriffe Definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Prüfung/Prüfung Notizen/Begriffe Definition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Prüfung/Prüfung Notizen/Begriffe Definition.md"
+              }
             }
           }
         ],
@@ -159,14 +167,30 @@
   },
   "active": "68eb162b7b4342e2",
   "lastOpenFiles": [
+    "Prüfung/Prüfung Notizen/Themen Lernen.md",
+    "Prüfung/Prüfung Notizen/Winter 2022-23 WISO.md",
+    "Prüfung/Prüfung Notizen/Begriffe Definition.md",
+    "textgenerator/Untitled.md",
     "Untitled.canvas",
-    "Prüfung/Begriffe Definition.md",
+    "textgenerator/prompts/default/getTitles.md",
+    "textgenerator/prompts/default/getParagraph.md",
+    "textgenerator/prompts/default/summarize.md",
+    "textgenerator/prompts/default/getEmailPos.md",
+    "textgenerator/prompts/default/getTags.md",
+    "textgenerator/prompts/default/simplify.md",
+    "textgenerator/prompts/default/summarizeLarge.md",
+    "textgenerator/prompts/default/getEmailNeg.md",
+    "textgenerator/prompts/default/getOutline.md",
+    "textgenerator/prompts/default/getIdeas.md",
+    "textgenerator/prompts/default/rewrite.md",
+    "textgenerator/prompts/default",
+    "textgenerator/test.md",
+    "textgenerator/prompts",
+    "textgenerator",
     "Prüfung/images/Marktformen.png",
     "Prüfung/images",
     "Prüfung/images/proxy-image.png",
-    "Prüfung/Themen Lernen.md",
     "Welcome.md",
-    "Prüfung/Prüfung Notizen/Winter 2022-23 WISO.md",
     "Prüfung/Prüfung Notizen",
     "Prüfung"
   ]

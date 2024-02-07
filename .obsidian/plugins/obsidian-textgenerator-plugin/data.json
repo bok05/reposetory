@@ -4,7 +4,7 @@
   "models": {},
   "api_key": "",
   "encrypt_keys": false,
-  "selectedProvider": "OpenAI Chat 1 (Langchain)",
+  "selectedProvider": "OpenAI Chat (Langchain)",
   "max_tokens": 500,
   "temperature": 0.7,
   "frequency_penalty": 0.5,
@@ -12,7 +12,7 @@
   "showStatusBar": true,
   "outputToBlockQuote": false,
   "freeCursorOnStreaming": false,
-  "allowJavascriptRun": false,
+  "allowJavascriptRun": true,
   "experiment": false,
   "promptsPath": "textgenerator/prompts",
   "prefix": "\n\n",
@@ -59,7 +59,7 @@
   "autoSuggestOptions": {
     "customInstructEnabled": false,
     "customInstruct": "continue the follwing text:\n{{query}}",
-    "isEnabled": false,
+    "isEnabled": true,
     "allowInNewLine": false,
     "delay": 300,
     "numberOfSuggestions": 5,
@@ -98,8 +98,8 @@
     }
   },
   "LLMProviderOptionsKeysHashed": {
-    "OpenAI Chat (Langchain).api_key": "__@#key_prefix#@__sk-el0fYKJqRW6Q49YprXxrT3BlbkFJVPXI5tM2hSMqKp2nsfwZ",
+    "OpenAI Chat (Langchain).api_key": "__@#key_prefix#@__sk-9W3Chg25KQgcgnCK1XDtT3BlbkFJMO5q2YSFXDk7NA2Gyu0i",
     "OpenAI Chat 1 (Langchain).api_key": "__@#key_prefix#@__sk-el0fYKJqRW6Q49YprXxrT3BlbkFJVPXI5tM2hSMqKp2nsfwZ"
   },
-  "api_key_encrypted": "__@#key_prefix#@__sk-el0fYKJqRW6Q49YprXxrT3BlbkFJVPXI5tM2hSMqKp2nsfwZ"
+  "api_key_encrypted": "__@#key_prefix#@__sk-9W3Chg25KQgcgnCK1XDtT3BlbkFJMO5q2YSFXDk7NA2Gyu0i"
 }
