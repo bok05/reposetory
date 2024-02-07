@@ -203,5 +203,23 @@ Das Kündigungsrecht regelt die Bedingungen, unter denen Vertragsverhältnisse b
 		- Lese Geschwindigkeit bleibt gliech
 		- Daten Redundanz ist gegeben alle daten dopplet oder mehr daher 100%
 		- CPU Last: sehr wenig
-### Raid 5
+### Raid 5 
+
+- **Definition**: RAID 5 (Redundant Array of Independent Disks) ist eine Methode zur Speicherung von Daten auf mehreren Festplatten, die sowohl Leistungsverbesserungen als auch Datenredundanz bietet.
+  
+- **Datenverteilung**: Bei RAID 5 werden Daten und Paritätsinformationen blockweise über alle Laufwerke im Array verteilt. Dies bietet eine Balance zwischen Speichereffizienz und Sicherheit.
+
+- **Parität**: Die Paritätsinformationen ermöglichen die Wiederherstellung von Daten im Falle des Ausfalls einer Festplatte im Array. Die Parität wird so berechnet, dass aus den verbleibenden Daten und der Parität die fehlenden Daten rekonstruiert werden können.
+
+- **Mindestanzahl an Festplatten**: Ein RAID 5-Array erfordert mindestens drei Festplatten, um funktionieren zu können.
+
+- **Leistung**: Lesegeschwindigkeiten bei RAID 5 sind typischerweise sehr gut, da auf mehrere Laufwerke gleichzeitig zugegriffen werden kann. Schreibgeschwindigkeiten können jedoch durch den Overhead der Paritätsberechnung beeinträchtigt werden.
+
+- **Speichereffizienz**: RAID 5 bietet eine gute Speichereffizienz, da nur der Speicherplatz einer einzigen Festplatte für die Redundanz verwendet wird, unabhängig von der Anzahl der Laufwerke im Array.
+
+- **Ausfalltoleranz**: RAID 5 kann den Ausfall genau eines Laufwerks tolerieren. Beim Ausfall von zwei oder mehr Laufwerken gehen alle Daten im Array verloren.
+
+- **Wiederherstellung**: Die Wiederherstellung von Daten nach dem Ausfall einer Festplatte kann zeitaufwändig sein und währenddessen ist das System anfälliger für weitere Ausfälle.
+
+- **Einsatzbereiche**: RAID 5 eignet sich besonders für Anwendungen, die einen guten Kompromiss zwischen hoher Kapazität, guter Lesegeschwindigkeit und Datensicherheit benötigen, wie z.B. Dateiserver, Webserver und Datenbankserver.
 
