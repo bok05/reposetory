@@ -11,26 +11,6 @@
             "id": "68eb162b7b4342e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prüfung/Prüfung Notizen/Begriffe Definition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dcf4877d05edc9a1",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "13e443be9e9e1954",
-            "type": "leaf",
-            "state": {
               "type": "empty",
               "state": {}
             }
@@ -101,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prüfung/Prüfung Notizen/Begriffe Definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prüfung/Prüfung Notizen/Begriffe Definition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,17 +119,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prüfung/Prüfung Notizen/Begriffe Definition.md"
+                "file": "Prüfung/Begriffe Definition.md"
               }
+            }
+          },
+          {
+            "id": "dcf4877d05edc9a1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,44 +145,42 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "68eb162b7b4342e2",
+  "active": "dcf4877d05edc9a1",
   "lastOpenFiles": [
-    "textgenerator/prompts/dalle/artUkiyoe.md",
-    "textgenerator/prompts/dalle/artLowPoly.md",
-    "textgenerator/prompts/dalle/artBauhaus.md",
-    "textgenerator/prompts/dalle/ligStudio.md",
-    "textgenerator/prompts/dalle/artWatercolor.md",
+    "textgenerator/prompts/default/summarizeLarge.md",
+    "textgenerator/prompts/default/summarize.md",
+    "textgenerator/prompts/default/simplify.md",
+    "textgenerator/prompts/default/rewrite.md",
+    "textgenerator/prompts/default/getTitles.md",
+    "textgenerator/prompts/default/getTags.md",
+    "textgenerator/prompts/default/getParagraph.md",
+    "textgenerator/prompts/default/getOutline.md",
+    "textgenerator/prompts/default/getIdeas.md",
+    "textgenerator/prompts/default/getEmailPos.md",
+    "textgenerator/prompts/default/getEmailNeg.md",
+    "textgenerator/prompts/dalle/sitNature.md",
+    "textgenerator/prompts/dalle/quaTiltShift.md",
+    "textgenerator/prompts/dalle/quaMacro.md",
+    "textgenerator/prompts/dalle/quaCinematic.md",
+    "textgenerator/prompts/dalle/quaBokeh.md",
+    "textgenerator/prompts/dalle/qua4K.md",
+    "textgenerator/prompts/dalle/qua85mm.md",
+    "textgenerator/prompts/dalle/qua35mm.md",
+    "textgenerator/prompts/dalle/qua200mm.md",
+    "textgenerator/prompts/dalle/qua15mm.md",
     "textgenerator/prompts/dalle/modPhotorealistic.md",
     "textgenerator/prompts/dalle/modFanart.md",
-    "textgenerator/prompts/dalle/artStock.md",
-    "textgenerator/prompts/dalle/artAnime.md",
-    "textgenerator/prompts/dalle/artPixel.md",
-    "textgenerator/prompts/dalle/artCartoon.md",
-    "textgenerator/prompts/dalle/artModern.md",
-    "textgenerator/prompts/dalle/artSprayPainted.md",
-    "textgenerator/prompts/dalle/quaMacro.md",
-    "textgenerator/prompts/dalle/ligGoldenHour.md",
-    "textgenerator/prompts/dalle/artCyberpunk.md",
-    "textgenerator/prompts/dalle/art3D.md",
-    "textgenerator/prompts/dalle/artGlitchcore.md",
-    "textgenerator/prompts/dalle/qua15mm.md",
-    "textgenerator/prompts/dalle/quaBokeh.md",
-    "textgenerator/prompts/dalle/artNormanRockwell.md",
-    "textgenerator/prompts/dalle/artDigital.md",
-    "textgenerator/prompts/dalle/qua35mm.md",
-    "textgenerator/prompts/dalle/quaTiltShift.md",
-    "textgenerator/prompts/dalle/qua4K.md",
-    "textgenerator/prompts/dalle/artVanGogh.md",
-    "textgenerator/prompts/dalle",
-    "Untitled.canvas",
+    "textgenerator/prompts/dalle/modDetailed.md",
+    "textgenerator/prompts/dalle/modAwardWinning.md",
+    "textgenerator/prompts/dalle/modArtStation.md",
     "textgenerator/prompts/default",
+    "textgenerator/prompts/dalle",
     "textgenerator/prompts",
     "textgenerator",
+    "Untitled.canvas",
     "Prüfung/images/Marktformen.png",
     "Prüfung/images",
     "Prüfung/images/proxy-image.png",
