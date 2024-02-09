@@ -11,6 +11,18 @@
             "id": "68eb162b7b4342e2",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prüfung/Prüfung Notizen/Auswendiglernen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ad5e9f5ce6a819c",
+            "type": "leaf",
+            "state": {
               "type": "empty",
               "state": {}
             }
@@ -81,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Prüfung/Prüfung Notizen/Auswendiglernen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Prüfung/Prüfung Notizen/Auswendiglernen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Prüfung/Prüfung Notizen/Auswendiglernen.md"
+              }
             }
           },
           {
@@ -143,11 +159,21 @@
       "canvas:Neuen Canvas erstellen": false,
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
-      "command-palette:Befehlspalette öffnen": false
+      "command-palette:Befehlspalette öffnen": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "dcf4877d05edc9a1",
+  "active": "68eb162b7b4342e2",
   "lastOpenFiles": [
+    "Prüfung/images/Pasted image 20240209115606.png",
+    "Prüfung/Prüfung Notizen/Auswendiglernen.md",
+    "Prüfung/images/ipv4-header.jpg",
+    "Prüfung/images/Netz Klassen.png",
+    "Prüfung/images/Marktformen.png",
+    "Prüfung/images/proxy-image.png",
+    "Prüfung/Prüfung Notizen/Begriffe Definition.md",
+    "Prüfung/Prüfung Notizen/Winter 2022-23 WISO.md",
     "textgenerator/prompts/default/summarizeLarge.md",
     "textgenerator/prompts/default/summarize.md",
     "textgenerator/prompts/default/simplify.md",
@@ -170,18 +196,12 @@
     "textgenerator/prompts/dalle/qua200mm.md",
     "textgenerator/prompts/dalle/qua15mm.md",
     "textgenerator/prompts/dalle/modPhotorealistic.md",
-    "textgenerator/prompts/dalle/modFanart.md",
-    "textgenerator/prompts/dalle/modDetailed.md",
-    "textgenerator/prompts/dalle/modAwardWinning.md",
-    "textgenerator/prompts/dalle/modArtStation.md",
     "textgenerator/prompts/default",
     "textgenerator/prompts/dalle",
     "textgenerator/prompts",
     "textgenerator",
     "Untitled.canvas",
-    "Prüfung/images/Marktformen.png",
     "Prüfung/images",
-    "Prüfung/images/proxy-image.png",
     "Prüfung/Prüfung Notizen",
     "Prüfung"
   ]
