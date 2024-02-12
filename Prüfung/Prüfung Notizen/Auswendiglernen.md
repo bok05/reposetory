@@ -4,9 +4,7 @@
 ![[Netz Klassen.png]]
 
 ## Header
-
-# IPv6
-![[Pasted image 20240212082240.png]]
+![[IPv4 Header.png]]
 - **Version**: the first field tells us which IP version we are using, only IPv4 uses this header so you will always find decimal value 4 here.
 - **Header Length**: this 4 bit field tells us the length of the IP header in 32 bit increments. The minimum length of an IP header is 20 bytes so with 32 bit increments, you would see value of 5 here. The maximum value we can create with 4 bits is 15 so with 32 bit increments, that would be a header length of 60 bytes. This field is also called the **Internet Header Length (IHL)**.
 - **Type of Service**: this is used for QoS (Quality of Service). There are 8 bits that we can use to mark the packet which we can use to give the packet a certain treatment. You can read more about this field in my [IP precedence and DSCP lesson](https://networklessons.com/quality-of-service/ip-precedence-dscp-values/).
@@ -23,6 +21,9 @@
 - **Source Address**: here you will find the 32 bit source IP address.
 - **Destination Address**: and here’s the 32 bit destination IP address.
 - **IP Option**: this field is not used often, is optional and has a variable length based on the options that were used. When you use this field, the value in the header length field will increase. An example of a possible option is “source route” where the sender requests for a certain routing path.
+
+# IPv6
+
 ## Header
 ![[IPv6 Header.png]]
 - **Traffic Class**: Der Wert des Feldes definiert die Priorität des Paketes.

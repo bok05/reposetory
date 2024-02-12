@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "84c89647c82ea8c9",
+        "id": "a94b2d85078b55f5",
         "type": "tabs",
         "children": [
           {
-            "id": "68eb162b7b4342e2",
+            "id": "b58e3336bd5613dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,14 +17,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "5ad5e9f5ce6a819c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -164,13 +156,14 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "05c3ffcd6a4403fd",
+  "active": "b58e3336bd5613dc",
   "lastOpenFiles": [
-    "Prüfung/images/IPv4 Header.png",
-    "Prüfung/images/IPv6 Header.png",
-    "Prüfung/images/IPv4 Header.png",
-    "Prüfung/images/Raid.png",
+    "2024-02-12.md",
     "Prüfung/Prüfung Notizen/Auswendiglernen.md",
+    "Prüfung/images/IPv4 Header.png",
+    "textgenerator/Untitled.md",
+    "Prüfung/images/IPv6 Header.png",
+    "Prüfung/images/Raid.png",
     "Prüfung/images/ipv4-header.jpg",
     "Prüfung/images/Netz Klassen.png",
     "Prüfung/images/Marktformen.png",
@@ -197,7 +190,6 @@
     "textgenerator/prompts/dalle/qua35mm.md",
     "textgenerator/prompts/dalle/qua200mm.md",
     "textgenerator/prompts/dalle/qua15mm.md",
-    "textgenerator/prompts/dalle/modPhotorealistic.md",
     "textgenerator/prompts/default",
     "textgenerator/prompts/dalle",
     "textgenerator/prompts",
