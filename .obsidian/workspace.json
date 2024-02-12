@@ -164,14 +164,16 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "68eb162b7b4342e2",
+  "active": "05c3ffcd6a4403fd",
   "lastOpenFiles": [
-    "Prüfung/images/Pasted image 20240209115606.png",
+    "Prüfung/images/IPv4 Header.png",
+    "Prüfung/images/IPv6 Header.png",
+    "Prüfung/images/IPv4 Header.png",
+    "Prüfung/images/Raid.png",
     "Prüfung/Prüfung Notizen/Auswendiglernen.md",
     "Prüfung/images/ipv4-header.jpg",
     "Prüfung/images/Netz Klassen.png",
     "Prüfung/images/Marktformen.png",
-    "Prüfung/images/proxy-image.png",
     "Prüfung/Prüfung Notizen/Begriffe Definition.md",
     "Prüfung/Prüfung Notizen/Winter 2022-23 WISO.md",
     "textgenerator/prompts/default/summarizeLarge.md",
