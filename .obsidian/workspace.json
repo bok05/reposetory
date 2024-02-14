@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prüfung/Prüfung Notizen/Auswendiglernen.md",
+                "file": "Prüfung/Prüfung Notizen/Begriffe Definition.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prüfung/Prüfung Notizen/Auswendiglernen.md",
+                "file": "Prüfung/Prüfung Notizen/Begriffe Definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prüfung/Prüfung Notizen/Auswendiglernen.md",
+                "file": "Prüfung/Prüfung Notizen/Begriffe Definition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prüfung/Prüfung Notizen/Auswendiglernen.md"
+                "file": "Prüfung/Prüfung Notizen/Begriffe Definition.md"
               }
             }
           },
@@ -158,15 +158,16 @@
   },
   "active": "b58e3336bd5613dc",
   "lastOpenFiles": [
-    "2024-02-12.md",
     "Prüfung/Prüfung Notizen/Auswendiglernen.md",
     "Prüfung/images/IPv4 Header.png",
-    "textgenerator/Untitled.md",
     "Prüfung/images/IPv6 Header.png",
-    "Prüfung/images/Raid.png",
-    "Prüfung/images/ipv4-header.jpg",
-    "Prüfung/images/Netz Klassen.png",
     "Prüfung/images/Marktformen.png",
+    "Prüfung/images/Netz Klassen.png",
+    "Prüfung/images/Raid.png",
+    "Prüfung/images/proxy-image (2).png",
+    "2024-02-12.md",
+    "textgenerator/Untitled.md",
+    "Prüfung/images/ipv4-header.jpg",
     "Prüfung/Prüfung Notizen/Begriffe Definition.md",
     "Prüfung/Prüfung Notizen/Winter 2022-23 WISO.md",
     "textgenerator/prompts/default/summarizeLarge.md",
@@ -189,7 +190,6 @@
     "textgenerator/prompts/dalle/qua85mm.md",
     "textgenerator/prompts/dalle/qua35mm.md",
     "textgenerator/prompts/dalle/qua200mm.md",
-    "textgenerator/prompts/dalle/qua15mm.md",
     "textgenerator/prompts/default",
     "textgenerator/prompts/dalle",
     "textgenerator/prompts",
