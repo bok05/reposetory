@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "a94b2d85078b55f5",
+        "id": "84c89647c82ea8c9",
         "type": "tabs",
         "children": [
           {
-            "id": "b58e3336bd5613dc",
+            "id": "dcf4877d05edc9a1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "8a06cd1270fdec1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prüfung/Prüfung Notizen/Begriffe Definition.md",
+                "file": "Prüfung/Prüfung Notizen/Winter 2022-23 WISO.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prüfung/Prüfung Notizen/Begriffe Definition.md",
+                "file": "Prüfung/Prüfung Notizen/Winter 2022-23 WISO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prüfung/Prüfung Notizen/Begriffe Definition.md",
+                "file": "Prüfung/Prüfung Notizen/Winter 2022-23 WISO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,20 +134,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prüfung/Prüfung Notizen/Begriffe Definition.md"
+                "file": "Prüfung/Prüfung Notizen/Winter 2022-23 WISO.md"
               }
-            }
-          },
-          {
-            "id": "dcf4877d05edc9a1",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,30 +147,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Schnellauswahl öffnen": false,
-      "graph:Graphen-Ansicht öffnen": false,
-      "canvas:Neuen Canvas erstellen": false,
-      "daily-notes:Heutige Notiz öffnen": false,
-      "templates:Vorlage einfügen": false,
-      "command-palette:Befehlspalette öffnen": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "b58e3336bd5613dc",
+  "active": "8a06cd1270fdec1d",
   "lastOpenFiles": [
-    "Prüfung/Prüfung Notizen/Auswendiglernen.md",
-    "Prüfung/images/IPv4 Header.png",
-    "Prüfung/images/IPv6 Header.png",
-    "Prüfung/images/Marktformen.png",
-    "Prüfung/images/Netz Klassen.png",
-    "Prüfung/images/Raid.png",
-    "Prüfung/images/proxy-image (2).png",
-    "2024-02-12.md",
-    "textgenerator/Untitled.md",
-    "Prüfung/images/ipv4-header.jpg",
     "Prüfung/Prüfung Notizen/Begriffe Definition.md",
-    "Prüfung/Prüfung Notizen/Winter 2022-23 WISO.md",
+    "Prüfung/images/Raid.png",
+    "Prüfung/images/Netz Klassen.png",
+    "Prüfung/images/IPv6 Header.png",
+    "Prüfung/images/IPv4 Header.png",
+    "Prüfung/Prüfung Notizen/Auswendiglernen.md",
+    "Prüfung/Prüfung Notizen/Themen Lernen.md",
+    "Prüfung/Begriffe Definition.md",
     "textgenerator/prompts/default/summarizeLarge.md",
     "textgenerator/prompts/default/summarize.md",
     "textgenerator/prompts/default/simplify.md",
@@ -190,12 +188,15 @@
     "textgenerator/prompts/dalle/qua85mm.md",
     "textgenerator/prompts/dalle/qua35mm.md",
     "textgenerator/prompts/dalle/qua200mm.md",
+    "textgenerator/prompts/dalle/qua15mm.md",
     "textgenerator/prompts/default",
     "textgenerator/prompts/dalle",
     "textgenerator/prompts",
     "textgenerator",
     "Untitled.canvas",
+    "Prüfung/images/Marktformen.png",
     "Prüfung/images",
+    "Prüfung/images/proxy-image.png",
     "Prüfung/Prüfung Notizen",
     "Prüfung"
   ]
