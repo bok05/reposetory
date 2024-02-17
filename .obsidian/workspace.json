@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a94b2d85078b55f5",
+        "id": "84c89647c82ea8c9",
         "type": "tabs",
         "children": [
           {
-            "id": "b58e3336bd5613dc",
+            "id": "68eb162b7b4342e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,7 +18,6 @@
                 "source": false
               }
             }
-<<<<<<< HEAD
           },
           {
             "id": "dcf4877d05edc9a1",
@@ -27,10 +26,9 @@
               "type": "git-view",
               "state": {}
             }
-=======
->>>>>>> origin/main
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,38 +137,36 @@
                 "file": "Prüfung/Prüfung Notizen/Begriffe Definition.md"
               }
             }
-          },
-          {
-            "id": "dcf4877d05edc9a1",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Schnellauswahl öffnen": false,
-      "graph:Graphen-Ansicht öffnen": false,
-      "canvas:Neuen Canvas erstellen": false,
-      "daily-notes:Heutige Notiz öffnen": false,
-      "templates:Vorlage einfügen": false,
-      "command-palette:Befehlspalette öffnen": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "b58e3336bd5613dc",
+  "active": "dcf4877d05edc9a1",
   "lastOpenFiles": [
-<<<<<<< HEAD
     "Prüfung/Prüfung Notizen/Begriffe Definition.md",
+    "conflict-files-obsidian-git.md",
+    "Prüfung/images/Raid.png",
+    "Prüfung/images/Netz Klassen.png",
+    "Prüfung/images/IPv6 Header.png",
+    "Prüfung/images/IPv4 Header.png",
+    "Prüfung/Prüfung Notizen/Auswendiglernen.md",
     "textgenerator/prompts/dalle/artUkiyoe.md",
     "textgenerator/prompts/dalle/artLowPoly.md",
     "textgenerator/prompts/dalle/artBauhaus.md",
@@ -194,51 +190,14 @@
     "textgenerator/prompts/dalle/artNormanRockwell.md",
     "textgenerator/prompts/dalle/artDigital.md",
     "textgenerator/prompts/dalle/qua35mm.md",
-=======
-    "Prüfung/Prüfung Notizen/Auswendiglernen.md",
-    "Prüfung/images/IPv4 Header.png",
-    "Prüfung/images/IPv6 Header.png",
-    "Prüfung/images/Marktformen.png",
-    "Prüfung/images/Netz Klassen.png",
-    "Prüfung/images/Raid.png",
-    "Prüfung/images/proxy-image (2).png",
-    "2024-02-12.md",
-    "textgenerator/Untitled.md",
-    "Prüfung/images/ipv4-header.jpg",
-    "Prüfung/Prüfung Notizen/Begriffe Definition.md",
-    "Prüfung/Prüfung Notizen/Winter 2022-23 WISO.md",
-    "textgenerator/prompts/default/summarizeLarge.md",
-    "textgenerator/prompts/default/summarize.md",
-    "textgenerator/prompts/default/simplify.md",
-    "textgenerator/prompts/default/rewrite.md",
-    "textgenerator/prompts/default/getTitles.md",
-    "textgenerator/prompts/default/getTags.md",
-    "textgenerator/prompts/default/getParagraph.md",
-    "textgenerator/prompts/default/getOutline.md",
-    "textgenerator/prompts/default/getIdeas.md",
-    "textgenerator/prompts/default/getEmailPos.md",
-    "textgenerator/prompts/default/getEmailNeg.md",
-    "textgenerator/prompts/dalle/sitNature.md",
->>>>>>> origin/main
-    "textgenerator/prompts/dalle/quaTiltShift.md",
-    "textgenerator/prompts/dalle/quaMacro.md",
-    "textgenerator/prompts/dalle/quaCinematic.md",
-    "textgenerator/prompts/dalle/quaBokeh.md",
-    "textgenerator/prompts/dalle/qua4K.md",
-<<<<<<< HEAD
     "textgenerator/prompts/dalle",
     "Untitled.canvas",
-=======
-    "textgenerator/prompts/dalle/qua85mm.md",
-    "textgenerator/prompts/dalle/qua35mm.md",
-    "textgenerator/prompts/dalle/qua200mm.md",
->>>>>>> origin/main
     "textgenerator/prompts/default",
-    "textgenerator/prompts/dalle",
     "textgenerator/prompts",
     "textgenerator",
-    "Untitled.canvas",
+    "Prüfung/images/Marktformen.png",
     "Prüfung/images",
+    "Prüfung/images/proxy-image.png",
     "Prüfung/Prüfung Notizen",
     "Prüfung"
   ]
