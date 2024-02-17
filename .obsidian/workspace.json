@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Prüfung/Prüfung Notizen/Begriffe Definition.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -24,14 +24,6 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "13e443be9e9e1954",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
               "state": {}
             }
           }
@@ -167,6 +159,7 @@
   },
   "active": "68eb162b7b4342e2",
   "lastOpenFiles": [
+    "Prüfung/Prüfung Notizen/Begriffe Definition.md",
     "textgenerator/prompts/dalle/artUkiyoe.md",
     "textgenerator/prompts/dalle/artLowPoly.md",
     "textgenerator/prompts/dalle/artBauhaus.md",
@@ -192,7 +185,6 @@
     "textgenerator/prompts/dalle/qua35mm.md",
     "textgenerator/prompts/dalle/quaTiltShift.md",
     "textgenerator/prompts/dalle/qua4K.md",
-    "textgenerator/prompts/dalle/artVanGogh.md",
     "textgenerator/prompts/dalle",
     "Untitled.canvas",
     "textgenerator/prompts/default",
