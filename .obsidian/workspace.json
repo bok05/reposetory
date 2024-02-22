@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prüfung/Prüfung Notizen/Winter 2022-23 WISO.md",
+                "file": "Prüfung/Prüfung Notizen/Begriffe Definition.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prüfung/Prüfung Notizen/Winter 2022-23 WISO.md",
+                "file": "Prüfung/Prüfung Notizen/Begriffe Definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prüfung/Prüfung Notizen/Winter 2022-23 WISO.md",
+                "file": "Prüfung/Prüfung Notizen/Begriffe Definition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prüfung/Prüfung Notizen/Winter 2022-23 WISO.md"
+                "file": "Prüfung/Prüfung Notizen/Begriffe Definition.md"
               }
             }
           }
@@ -160,12 +160,14 @@
   },
   "active": "8a06cd1270fdec1d",
   "lastOpenFiles": [
+    "Prüfung/Prüfung Notizen/Auswendiglernen.md",
+    "Prüfung/images/Pasted image 20240215133706.png",
+    "Prüfung/Prüfung Notizen/Winter 2022-23 WISO.md",
     "Prüfung/Prüfung Notizen/Begriffe Definition.md",
     "Prüfung/images/Raid.png",
     "Prüfung/images/Netz Klassen.png",
     "Prüfung/images/IPv6 Header.png",
     "Prüfung/images/IPv4 Header.png",
-    "Prüfung/Prüfung Notizen/Auswendiglernen.md",
     "Prüfung/Prüfung Notizen/Themen Lernen.md",
     "Prüfung/Begriffe Definition.md",
     "textgenerator/prompts/default/summarizeLarge.md",
@@ -188,7 +190,6 @@
     "textgenerator/prompts/dalle/qua85mm.md",
     "textgenerator/prompts/dalle/qua35mm.md",
     "textgenerator/prompts/dalle/qua200mm.md",
-    "textgenerator/prompts/dalle/qua15mm.md",
     "textgenerator/prompts/default",
     "textgenerator/prompts/dalle",
     "textgenerator/prompts",
