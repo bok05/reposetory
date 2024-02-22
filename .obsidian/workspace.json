@@ -27,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,12 +157,13 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "8a06cd1270fdec1d",
+  "active": "dcf4877d05edc9a1",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Prüfung/Prüfung Notizen/Begriffe Definition.md",
     "Prüfung/Prüfung Notizen/Auswendiglernen.md",
     "Prüfung/images/Pasted image 20240215133706.png",
     "Prüfung/Prüfung Notizen/Winter 2022-23 WISO.md",
-    "Prüfung/Prüfung Notizen/Begriffe Definition.md",
     "Prüfung/images/Raid.png",
     "Prüfung/images/Netz Klassen.png",
     "Prüfung/images/IPv6 Header.png",
