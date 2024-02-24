@@ -33,3 +33,10 @@
 - **Hop Limit**: Bestimmt die maximale Anzahl an Routern, die ein IPv6-Datenpaket überqueren kann, ähnlich dem Time-to-Live-Wert bei IPv4.
 - **Source Address**: Gibt die 128-Bit-lange IP-Adresse des Senders an.
 - **Destination Address**: Gibt die 128-Bit-lange IP-Adresse des Empfängers an.
+-
+
+## Netzplan
+
+
+![[Pasted image 20240215133706.png]]
+

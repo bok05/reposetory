@@ -223,8 +223,50 @@ Das Kündigungsrecht regelt die Bedingungen, unter denen Vertragsverhältnisse b
 
 - **Einsatzbereiche**: RAID 5 eignet sich besonders für Anwendungen, die einen guten Kompromiss zwischen hoher Kapazität, guter Lesegeschwindigkeit und Datensicherheit benötigen, wie z.B. Dateiserver, Webserver und Datenbankserver.
 
+
 ##  Tilgungsrate
 
 Was ist eine Tilgungsrate
 
 Eine Tilgungsrate ist der Betrag, der bei einem Darlehen oder Kredit regelmäßig (z.B. monatlich, vierteljährlich oder jährlich) gezahlt wird, um die Schuld zu verringern. Sie ist Teil der Gesamtzahlung, die auch Zinsen auf das noch ausstehende Kapital umfasst. Die Tilgungsrate reduziert direkt den noch offenen Kreditbetrag 
+=======
+# Leitbild
+
+Ein Leitbild ist eine schriftlich festgehaltene Erklärung einer Organisation, eines Unternehmens oder einer Institution, die deren grundlegende Ziele, Werte und Prinzipien zusammenfasst. Es dient als Orientierungsrahmen für alle Mitglieder und Stakeholder und soll eine gemeinsame Richtung vorgeben sowie Identität stiften.
+
+# Steakholder
+
+Der Begriff "Steakholder" scheint eine humorvolle oder fehlerhafte Version des Begriffs "Stakeholder" zu sein. Ein Stakeholder ist jemand, der ein Interesse oder einen Anteil an einem bestimmten Unternehmen, Projekt oder Vorhaben hat. Stakeholders können sowohl Individuen als auch Organisationen sein und umfassen eine breite Palette von Gruppen, wie zum Beispiel Mitarbeiter, Kunden, Lieferanten, Investoren 
+
+
+# Zweierpotenzen 
+ 0^2 = 1  
+ 1^2 = 2  
+ 2^2 = 4  
+ 3^2 = 8  
+ 4^2 = 16  
+ 5^2 = 32  
+ 6^2 = 64  
+ 7^2 = 128  
+ 8^2 = 256  
+ 9^2 = 512  
+ 10^2 = 1.024  
+ 11^2 = 2.048  
+ 12^2 = 4.096  
+ 13^2 = 8.192  
+ 14^2 = 16.384  
+ 15^2 = 32.768  
+ 16^2 = 65.536
+ 32^2 = 4.294.967.296
+64^2 = 18.446.744.073.709.551.616
+
+# JBOD 
+
+JBOD steht für "Just a Bunch Of Disks" oder auf Deutsch „nur eine Ansammlung von Festplatten“. Es ist ein Konzept zur Speicherung von Daten, bei dem mehrere physische Festplatten als einzelne, unabhängige Laufwerke verwendet werden, anstatt sie in einem RAID-Array (Redundant Array of Independent Disks) zu konfigurieren. 
+
+Im JBOD-Modus wird jede Festplatte einzeln genutzt und angezeigt. Das bedeutet, dass die Kapazität jeder Festplatte separat zur Verfügung steht und nicht zusammengefasst oder gespiegelt wird. Wenn eine Disk voll ist, können Daten auf der nächsten verfügbaren Disk gespeichert werden. Im Vergleich zu RAID bietet JBOD keine Leistungssteigerung oder Redundanz zum Schutz vor Datenverlust im Falle eines Ausfalls einer Festplatte.
+
+JBOD wird oft in Situationen verwendet, in denen es wichtig ist, maximale Speicherkapazität ohne zusätzliche Kosten für Redundanz oder verbesserte Leistung zu erzielen. Es kann auch als Ergänzung zu RAID-Systemen eingesetzt werden, um zusätzlichen Speicherplatz bereitzustellen.
+
+
+

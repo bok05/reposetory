@@ -28,6 +28,30 @@
             }
           },
           {
+            "id": "5f4404df94f5075c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "395101e61f1ad612",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prüfung/Prüfung Notizen/Begriffe Definition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "894a6501ce35b2b8",
             "type": "leaf",
             "state": {
@@ -106,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prüfung/Prüfung Notizen/Begriffe Definition.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prüfung/Prüfung Notizen/Begriffe Definition.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prüfung/Prüfung Notizen/Begriffe Definition.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -170,11 +194,12 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "05c3ffcd6a4403fd",
+  "active": "5f4404df94f5075c",
   "lastOpenFiles": [
-    "Prüfung/Prüfung Notizen/Auswendiglernen.md",
-    "Prüfung/Prüfung Notizen/Begriffe Definition.md",
     "conflict-files-obsidian-git.md",
+    "Prüfung/Prüfung Notizen/Begriffe Definition.md",
+    "Prüfung/images/Pasted image 20240215133706.png",
+    "Prüfung/Prüfung Notizen/Auswendiglernen.md",
     "Prüfung/images/Raid.png",
     "Prüfung/images/Netz Klassen.png",
     "Prüfung/images/IPv6 Header.png",
@@ -201,7 +226,6 @@
     "textgenerator/prompts/dalle/quaBokeh.md",
     "textgenerator/prompts/dalle/artNormanRockwell.md",
     "textgenerator/prompts/dalle/artDigital.md",
-    "textgenerator/prompts/dalle/qua35mm.md",
     "textgenerator/prompts/dalle",
     "Untitled.canvas",
     "textgenerator/prompts/default",

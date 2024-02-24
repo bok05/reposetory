@@ -5,7 +5,11 @@
   "api_key": "",
   "encrypt_keys": false,
   "selectedProvider": "OpenAI Chat (Langchain)",
+<<<<<<< HEAD
+  "max_tokens": 400,
+=======
   "max_tokens": 100,
+>>>>>>> origin/main
   "temperature": 0.7,
   "frequency_penalty": 0.5,
   "prompt": "",
