@@ -223,3 +223,8 @@ Das Kündigungsrecht regelt die Bedingungen, unter denen Vertragsverhältnisse b
 
 - **Einsatzbereiche**: RAID 5 eignet sich besonders für Anwendungen, die einen guten Kompromiss zwischen hoher Kapazität, guter Lesegeschwindigkeit und Datensicherheit benötigen, wie z.B. Dateiserver, Webserver und Datenbankserver.
 
+##  Tilgungsrate
+
+Was ist eine Tilgungsrate
+
+Eine Tilgungsrate ist der Betrag, der bei einem Darlehen oder Kredit regelmäßig (z.B. monatlich, vierteljährlich oder jährlich) gezahlt wird, um die Schuld zu verringern. Sie ist Teil der Gesamtzahlung, die auch Zinsen auf das noch ausstehende Kapital umfasst. Die Tilgungsrate reduziert direkt den noch offenen Kreditbetrag 

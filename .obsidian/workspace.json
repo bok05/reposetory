@@ -26,9 +26,21 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "894a6501ce35b2b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prüfung/Prüfung Notizen/Begriffe Definition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,15 +170,15 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "dcf4877d05edc9a1",
+  "active": "05c3ffcd6a4403fd",
   "lastOpenFiles": [
+    "Prüfung/Prüfung Notizen/Auswendiglernen.md",
     "Prüfung/Prüfung Notizen/Begriffe Definition.md",
     "conflict-files-obsidian-git.md",
     "Prüfung/images/Raid.png",
     "Prüfung/images/Netz Klassen.png",
     "Prüfung/images/IPv6 Header.png",
     "Prüfung/images/IPv4 Header.png",
-    "Prüfung/Prüfung Notizen/Auswendiglernen.md",
     "textgenerator/prompts/dalle/artUkiyoe.md",
     "textgenerator/prompts/dalle/artLowPoly.md",
     "textgenerator/prompts/dalle/artBauhaus.md",
