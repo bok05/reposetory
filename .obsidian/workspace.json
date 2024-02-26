@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,11 +195,11 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "1398a71cee0d3a27",
+  "active": "dcf4877d05edc9a1",
   "lastOpenFiles": [
-    "Prüfung/Prüfung Notizen/Themen Lernen.md",
-    "Prüfung/Prüfung Notizen/Begriffe Definition.md",
     "conflict-files-obsidian-git.md",
+    "Prüfung/Prüfung Notizen/Begriffe Definition.md",
+    "Prüfung/Prüfung Notizen/Themen Lernen.md",
     "Prüfung/images/Pasted image 20240215133706.png",
     "Prüfung/Prüfung Notizen/Auswendiglernen.md",
     "Prüfung/images/Raid.png",
