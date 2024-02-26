@@ -226,10 +226,8 @@ Das Kündigungsrecht regelt die Bedingungen, unter denen Vertragsverhältnisse b
 
 ##  Tilgungsrate
 
-Was ist eine Tilgungsrate
-
 Eine Tilgungsrate ist der Betrag, der bei einem Darlehen oder Kredit regelmäßig (z.B. monatlich, vierteljährlich oder jährlich) gezahlt wird, um die Schuld zu verringern. Sie ist Teil der Gesamtzahlung, die auch Zinsen auf das noch ausstehende Kapital umfasst. Die Tilgungsrate reduziert direkt den noch offenen Kreditbetrag 
-=======
+
 # Leitbild
 
 Ein Leitbild ist eine schriftlich festgehaltene Erklärung einer Organisation, eines Unternehmens oder einer Institution, die deren grundlegende Ziele, Werte und Prinzipien zusammenfasst. Es dient als Orientierungsrahmen für alle Mitglieder und Stakeholder und soll eine gemeinsame Richtung vorgeben sowie Identität stiften.
@@ -267,6 +265,42 @@ JBOD steht für "Just a Bunch Of Disks" oder auf Deutsch „nur eine Ansammlung 
 Im JBOD-Modus wird jede Festplatte einzeln genutzt und angezeigt. Das bedeutet, dass die Kapazität jeder Festplatte separat zur Verfügung steht und nicht zusammengefasst oder gespiegelt wird. Wenn eine Disk voll ist, können Daten auf der nächsten verfügbaren Disk gespeichert werden. Im Vergleich zu RAID bietet JBOD keine Leistungssteigerung oder Redundanz zum Schutz vor Datenverlust im Falle eines Ausfalls einer Festplatte.
 
 JBOD wird oft in Situationen verwendet, in denen es wichtig ist, maximale Speicherkapazität ohne zusätzliche Kosten für Redundanz oder verbesserte Leistung zu erzielen. Es kann auch als Ergänzung zu RAID-Systemen eingesetzt werden, um zusätzlichen Speicherplatz bereitzustellen.
+
+
+
+# Smart 
+### S 
+spezifisch/specific
+### M
+messbar/measurable
+### A
+akzeptieren/accepted
+### R
+realistisch/reasonoable
+### T
+terminiert/time-bound
+
+# Gantt Diagramm  
+
+Gantt-Diagramme sind visuelle Werkzeuge, die bei der Planung und Überwachung von Projekten eingesetzt werden. Sie zeigen den Zeitplan von Aktivitäten und deren Dauer in einem Projekt. Hier sind einige Vor- und Nachteile von Gantt-Diagrammen, stichpunktartig zusammengefasst:
+
+Vorteile:
+
+1. **Visuelle Klarheit**: Bieten eine klare, visuelle Darstellung des Projektzeitplans und der Fortschritte.
+2. **Zuordnung von Ressourcen**: Ermöglichen die einfache Zuordnung von Aufgaben zu Teammitgliedern.
+3. **Deadline-Management**: Helfen dabei, Fristen zu überwachen und sicherzustellen, dass das Projekt im Zeitrahmen bleibt.
+4. **Fortlaufende Anpassungen**: Ermöglichen eine einfache Aktualisierung und Anpassung des Plans bei Änderungen im Projektverlauf.
+5. **Transparenz**: Verbessern die Kommunikation zwischen den Beteiligten durch klare Darstellung der Verantwortlichkeiten und Fristen.
+
+Nachteile:
+
+1. **Komplexität bei großen Projekten**: Können unübersichtlich werden, wenn ein Projekt viele Aufgaben umfasst oder sehr komplex ist.
+2. **Fehlende Detailtiefe**: Zeigen nicht immer den Grad der Abhängigkeit zwischen Aufgaben oder den Arbeitsaufwand pro Aufgabe detailliert an.
+3. **Starre Struktur**: Können in dynamischen Projekten, wo sich Anforderungen schnell ändern, weniger effektiv sein.
+4. **Zeitaufwendig in der Erstellung und Aktualisierung**: Das Erstellen und regelmäßige Aktualisieren eines Gantt-Diagramms kann zeitaufwendig sein.
+5. **Fokus auf Zeitplanung statt auf Prioritätensetzung**: Legen den Schwerpunkt mehr auf Zeitplanung als auf die Wichtigkeit oder den strategischen Wert von Aufgaben.
+
+Trotz dieser Nachteile sind Gantt-Diagramme ein beliebtes Werkzeug im Projektmanagement, da sie einen guten Überblick über das gesamte Projekt bieten können und dabei helfen, dessen Fortschritt zu verfolgen und zu
 
 
 

@@ -28,18 +28,6 @@
             }
           },
           {
-            "id": "5f4404df94f5075c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "395101e61f1ad612",
             "type": "leaf",
             "state": {
@@ -62,9 +50,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1398a71cee0d3a27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prüfung/Prüfung Notizen/Begriffe Definition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -114,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 265.5
   },
   "right": {
     "id": "99c984a066af0b21",
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Prüfung/Prüfung Notizen/Begriffe Definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Prüfung/Prüfung Notizen/Begriffe Definition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Prüfung/Prüfung Notizen/Begriffe Definition.md"
               }
             }
           }
@@ -184,6 +184,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -194,10 +195,11 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "5f4404df94f5075c",
+  "active": "1398a71cee0d3a27",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Prüfung/Prüfung Notizen/Themen Lernen.md",
     "Prüfung/Prüfung Notizen/Begriffe Definition.md",
+    "conflict-files-obsidian-git.md",
     "Prüfung/images/Pasted image 20240215133706.png",
     "Prüfung/Prüfung Notizen/Auswendiglernen.md",
     "Prüfung/images/Raid.png",
