@@ -156,8 +156,17 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "68eb162b7b4342e2",
+  "active": "dcf4877d05edc9a1",
   "lastOpenFiles": [
+    "Prüfung/images/Raid.png",
+    "Prüfung/images/Pasted image 20240215133706.png",
+    "Prüfung/images/Netz Klassen.png",
+    "Prüfung/images/IPv6 Header.png",
+    "Prüfung/images/IPv4 Header.png",
+    "Prüfung/Prüfung Notizen/Auswendiglernen.md",
+    "textgenerator/Untitled.md",
+    "Untitled.canvas",
+    "Prüfung/images/proxy-image.png",
     "textgenerator/prompts/default/summarizeLarge.md",
     "textgenerator/prompts/default/summarize.md",
     "textgenerator/prompts/default/simplify.md",
@@ -181,17 +190,12 @@
     "textgenerator/prompts/dalle/qua15mm.md",
     "textgenerator/prompts/dalle/modPhotorealistic.md",
     "textgenerator/prompts/dalle/modFanart.md",
-    "textgenerator/prompts/dalle/modDetailed.md",
-    "textgenerator/prompts/dalle/modAwardWinning.md",
-    "textgenerator/prompts/dalle/modArtStation.md",
     "textgenerator/prompts/default",
     "textgenerator/prompts/dalle",
     "textgenerator/prompts",
     "textgenerator",
-    "Untitled.canvas",
     "Prüfung/images/Marktformen.png",
     "Prüfung/images",
-    "Prüfung/images/proxy-image.png",
     "Prüfung/Prüfung Notizen",
     "Prüfung"
   ]
