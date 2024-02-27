@@ -38,5 +38,5 @@
 ## Netzplan
 
 
-![[Pasted image 20240215133706.png]]
+![[Netzplantechnik.png]]
 

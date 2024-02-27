@@ -28,30 +28,6 @@
             }
           },
           {
-            "id": "395101e61f1ad612",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prüfung/Prüfung Notizen/Begriffe Definition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "894a6501ce35b2b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prüfung/Prüfung Notizen/Begriffe Definition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1398a71cee0d3a27",
             "type": "leaf",
             "state": {
@@ -184,7 +160,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -197,14 +172,15 @@
   },
   "active": "dcf4877d05edc9a1",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Prüfung/images/Netzplantechnik.png",
     "Prüfung/Prüfung Notizen/Begriffe Definition.md",
-    "Prüfung/Prüfung Notizen/Themen Lernen.md",
-    "Prüfung/images/Pasted image 20240215133706.png",
-    "Prüfung/Prüfung Notizen/Auswendiglernen.md",
     "Prüfung/images/Raid.png",
-    "Prüfung/images/Netz Klassen.png",
     "Prüfung/images/IPv6 Header.png",
+    "Prüfung/images/Marktformen.png",
+    "Prüfung/images/Netz Klassen.png",
+    "conflict-files-obsidian-git.md",
+    "Prüfung/Prüfung Notizen/Themen Lernen.md",
+    "Prüfung/Prüfung Notizen/Auswendiglernen.md",
     "Prüfung/images/IPv4 Header.png",
     "textgenerator/prompts/dalle/artUkiyoe.md",
     "textgenerator/prompts/dalle/artLowPoly.md",
@@ -227,13 +203,11 @@
     "textgenerator/prompts/dalle/qua15mm.md",
     "textgenerator/prompts/dalle/quaBokeh.md",
     "textgenerator/prompts/dalle/artNormanRockwell.md",
-    "textgenerator/prompts/dalle/artDigital.md",
     "textgenerator/prompts/dalle",
     "Untitled.canvas",
     "textgenerator/prompts/default",
     "textgenerator/prompts",
     "textgenerator",
-    "Prüfung/images/Marktformen.png",
     "Prüfung/images",
     "Prüfung/images/proxy-image.png",
     "Prüfung/Prüfung Notizen",

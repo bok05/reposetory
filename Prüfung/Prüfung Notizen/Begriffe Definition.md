@@ -280,7 +280,10 @@ realistisch/reasonoable
 ### T
 terminiert/time-bound
 
-# Gantt Diagramm  
+# Netzplan
+
+![[Netzplantechnik.png]]
+## Gantt Diagramm  
 
 Gantt-Diagramme sind visuelle Werkzeuge, die bei der Planung und Überwachung von Projekten eingesetzt werden. Sie zeigen den Zeitplan von Aktivitäten und deren Dauer in einem Projekt. Hier sind einige Vor- und Nachteile von Gantt-Diagrammen, stichpunktartig zusammengefasst:
 
@@ -300,7 +303,7 @@ Nachteile:
 4. **Zeitaufwendig in der Erstellung und Aktualisierung**: Das Erstellen und regelmäßige Aktualisieren eines Gantt-Diagramms kann zeitaufwendig sein.
 5. **Fokus auf Zeitplanung statt auf Prioritätensetzung**: Legen den Schwerpunkt mehr auf Zeitplanung als auf die Wichtigkeit oder den strategischen Wert von Aufgaben.
 
-Trotz dieser Nachteile sind Gantt-Diagramme ein beliebtes Werkzeug im Projektmanagement, da sie einen guten Überblick über das gesamte Projekt bieten können und dabei helfen, dessen Fortschritt zu verfolgen und zu
+Trotz dieser Nachteile sind Gantt-Diagramme ein beliebtes Werkzeug im Projektmanagement, da sie einen guten Überblick über das gesamte Projekt bieten können und dabei helfen, dessen Fortschritt zu verfolgen .
 
 
 
